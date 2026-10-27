@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+python/alumnos.txt
+python/profesores.txt
+python/certificados_pendientes.txt
