@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Lanzar SGA-DO",
+            "request": "launch",
+            "mainClass": "com.diplomadosonline.Main",
+            "projectName": "java",
+            "classPaths": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/src"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de datos generados por el sistema (locales)
+alumnos.txt
+profesores.txt
+certificados_pendientes.txt
